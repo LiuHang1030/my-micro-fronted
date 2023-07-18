@@ -1,0 +1,1 @@
+echo "branch: ${GIT_BRANCH}"
